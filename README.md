@@ -1,2 +1,2 @@
 
-Life is short. Use Python.
+Life is short. Use Python. or for Deep learning 
